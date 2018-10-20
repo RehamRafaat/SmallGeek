@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>Small Geek</title>
+    <link rel="shortcut icon" href="image/roboty.png">
+    
+	<!-- BOOTSTRAP -->
+	<link rel="stylesheet" href="Css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    
+    <!-- GLOBAL CSS -->
+	<link rel="stylesheet" href="Css/global.css" />
+    <link rel="stylesheet" href="Css/animate.min.css" />
+    
+    <!-- FONTS -->
+	<link rel="stylesheet" href="assets/css/open-sans/open-sans.css" />
+	<link rel="stylesheet" href="assets/css/montserrat/css/montserrat-webfont.min.css" />
+	<link rel="stylesheet" href="assets/css/font-awesome-4.7.0/css/font-awesome.min.css" />
+    
+    <!--jQuiry-->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="Js/global.js"></script>
+    
+    
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	</script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	</script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	</script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine3/style.css" />
+	<!--script type="text/javascript" src="engine3/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine5/style.css" />
+	<!--script type="text/javascript" src="engine5/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine4/style.css" />
+	<!--script type="text/javascript" src="engine4/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine4/style.css" />
+	<!--script type="text/javascript" src="engine4/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section --></head>
+    
+    <body>
+        
+    <!-- START HEADER -->
+	<header id="header">
+        
+      <nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+      
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Small Geek</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        
+          <ul class="nav navbar-nav navbar-right">
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">My Classroom</a></li>
+            <li><a href="#">Edit Profile</a></li>
+            <li><a href="#">Setting</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Log Out</a></li>
+          </ul>
+        </li>
+      </ul>
+        
+      <ul class="nav navbar-nav navbar-right">
+          
+        <li><a href="#">Home</a></li>
+          
+        <li><a href="#">Courses</a></li>
+          
+        <li><a href="#">Games</a></li>
+          
+        <li><a href="#">Profile</a></li>
+      </ul>
+      
+    
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+    </header>
+        
+        <section class="hero_section">
+        
+        <div class="container-fluied">
+        <div class="row">
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container3">
+	<div class="ws_images"><ul>
+		<li><img src="data3/images/651579546.jpg" alt="Here is your kide's guide" title="Here is your kide's guide" id="wows3_0"/></li>
+		<li><img src="data3/images/tumblr_paq53tumop1vnlooao1_1280.jpg" alt="We'll lead you to what you wish" title="We'll lead you to what you wish" id="wows3_1"/></li>
+		<li><img src="data3/images/kidscoding.png" alt="feal fun on compiling" title="feal fun on compiling" id="wows3_2"/></li>
+		<li><img src="data3/images/1_b1i923lclawl9foxxxghqq.jpg" alt="learn how to code" title="learn how to code" id="wows3_3"/></li>
+		<li><img src="data3/images/stockvectorfatherwatchingovershouldersonkiddoinghomeworkondesktopcomputersittingatdeskdad687576916.jpg" alt="design your own webside" title="design your own webside" id="wows3_4"/></li>
+		<li><img src="data3/images/teachingkidsprogrammingwithrobotsandtoys1020x560.png" alt="Courses in Programming for kides" title="Courses in Programming for kides" id="wows3_5"/></li>
+		<li><a href="http://wowslider.net"><img src="data3/images/800px_colourbox18512346.jpg" alt="bootstrap slideshow" title="Explore programming world" id="wows3_6"/></a></li>
+		<li><img src="data3/images/csgraphic.png" alt="" title="" id="wows3_7"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="Here is your kide's guide"><span><img src="data3/tooltips/651579546.jpg" alt="Here is your kide's guide"/>1</span></a>
+		<a href="#" title="We'll lead you to what you wish"><span><img src="data3/tooltips/tumblr_paq53tumop1vnlooao1_1280.jpg" alt="We'll lead you to what you wish"/>2</span></a>
+		<a href="#" title="feal fun on compiling"><span><img src="data3/tooltips/kidscoding.png" alt="feal fun on compiling"/>3</span></a>
+		<a href="#" title="learn how to code"><span><img src="data3/tooltips/1_b1i923lclawl9foxxxghqq.jpg" alt="learn how to code"/>4</span></a>
+		<a href="#" title="design your own webside"><span><img src="data3/tooltips/stockvectorfatherwatchingovershouldersonkiddoinghomeworkondesktopcomputersittingatdeskdad687576916.jpg" alt="design your own webside"/>5</span></a>
+		<a href="#" title="Courses in Programming for kides"><span><img src="data3/tooltips/teachingkidsprogrammingwithrobotsandtoys1020x560.png" alt="Courses in Programming for kides"/>6</span></a>
+		<a href="#" title="Explore programming world"><span><img src="data3/tooltips/800px_colourbox18512346.jpg" alt="Explore programming world"/>7</span></a>
+		<a href="#" title=""><span><img src="data3/tooltips/csgraphic.png" alt=""/>8</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">wow slider</a> by WOWSlider.com v8.8</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine3/wowslider.js"></script>
+	<script type="text/javascript" src="engine3/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+        
+            </div>
+        
+        </div>
+        
+        </section>
+        
+        <section class="section_2" style="height: 1050px;">
+        <div class="container">
+            <div class="row">
+                <h1 class="About_Head_title"style="">Welcome To Small Geek</h1>
+                <div class="col-md-6 about hidden-sm hidden-xs ">
+                
+                <h2 class="About_title"style="">About Small Geek</h2>
+                <p style="margin-bottom: 150px;">Small Geek is a webside aimes to guide kides in their way of coding and help them in learning first princples and basic knowledge of programming with some courses, funny programming games and some entertaintmains</p>
+                </div>
+                 <img class="hidden-sm hidden-xs"src="image/giphy.gif" style="margin-left: 70%; margin-top: -35%; width: 250px; height: 300px;">
+                <div class="sec col-md-6 hidden-sm hidden-xs">
+                
+                <h2 class="About_title"style="margin-left: 785px; margin-top: 80px;">Computer is a friend</h2>
+                <p class="about" style="margin-bottom: 150px; float: right; margin-top: 30px; ">computer can become a good friend for you if you use it in the best way, Computer is the future and learning programming from childhood is a important.. Small Jeek will help you to take advantage of your empty time on the computer in programming interesting world.</p>
+                    <img src="image/computer-gif-21.gif" style="width: 350px; height: 300px; margin-top: -100px; ">
+                </div>
+               
+                
+                <div class="about-mop hidden-lg hidden-md">
+                <div class="col-sm-3"></div>
+                <div class="col-md-6">
+                    
+                <h2 class="About_title"style="text-align: left;">About Small Geek</h2>
+                <p>Small Geek is a webside aimes to guide kides in their way of coding and help them in learning first princples and basic knowledge of programming with some courses, funny programming games and some entertaintmains.</p>
+                     
+                </div>
+                <div class="col-sm-3 col-xs-3"></div>
+                    <div class=" img-responsive">
+                     <img src="image/giphy.gif" style="margin-left: 50px;">
+                    </div>
+                    
+                    <div class="col-sm-3"></div>
+                <div class="col-md-6">
+                    
+                <h2 class="About_title"style="text-align: left; margin-top: 2px;">Computer is a friend</h2>
+                <p>computer can become a good friend for you if you use it in the best way .. Small Jeek will help you to take advantage of your empty time on the computer in the world of interesting programming.</p>
+                     
+                </div>
+                <div class="col-sm-3 col-xs-3"></div>
+                    <div class=" img-responsive">
+                     <img src="image/computer-gif-21.gif" style=" width: 300px; height: 250px; margin-left: 50px; margin-bottom: 500px;">
+                    </div>
+                    
+                </div>
+                
+                </div>
+                
+                
+              
+            </div>
+            
+        
+        </section>
+        
+        <section class="section_3">
+        <div class="container">
+            <div class="row">
+           <h1 class="About_Head_title"style="color: white; margin-top: 90px;">We are Your Guiders</h1>
+            <p class="About_Head_title" style="color:gray; font-size: 23px; margin-top: 150px;">Our website will provide alot of courses paths and websites in the same topic</p>
+                <br>
+                <br>
+        
+            
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container4">
+	<div class="ws_images"><ul>
+		<li><img src="data4/images/android1.png" alt="Android" title="Android" id="wows4_0"/></li>
+		<li><img src="data4/images/robotics.png" alt="Robotics" title="Robotics" id="wows4_1"/></li>
+		<li><img src="data4/images/c++.png" alt="C++" title="C++" id="wows4_2"/></li>
+		<li><img src="data4/images/java_main.png" alt="Java" title="Java" id="wows4_3"/></li>
+		<li><img src="data4/images/c2.png" alt="C#" title="C#" id="wows4_4"/></li>
+		<li><a href="http://wowslider.net"><img src="data4/images/websiteredesignbanner.jpg" alt="jquery carousel slider" title="web development" id="wows4_5"/></a></li>
+		<li><img src="data4/images/python.jpg" alt="Python" title="Python" id="wows4_6"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="Android"><span><img src="data4/tooltips/android1.png" alt="Android"/>1</span></a>
+		<a href="#" title="Robotics"><span><img src="data4/tooltips/robotics.png" alt="Robotics"/>2</span></a>
+		<a href="#" title="C++"><span><img src="data4/tooltips/c++.png" alt="C++"/>3</span></a>
+		<a href="#" title="Java"><span><img src="data4/tooltips/java_main.png" alt="Java"/>4</span></a>
+		<a href="#" title="C#"><span><img src="data4/tooltips/c2.png" alt="C#"/>5</span></a>
+		<a href="#" title="web development"><span><img src="data4/tooltips/websiteredesignbanner.jpg" alt="web development"/>6</span></a>
+		<a href="#" title="Python"><span><img src="data4/tooltips/python.jpg" alt="Python"/>7</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">html slider</a> by WOWSlider.com v8.8</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine4/wowslider.js"></script>
+	<script type="text/javascript" src="engine4/script.js"></script>
+	<!-- End WOWSlider.com BODY section --></div>
+            </div>
+        </section>
+        <section class="section_4">
+        <div class="container">
+            <div class="row">
+            
+            
+            </div>
+            </div>
+        </section>
+        <footer style="height: 100px; background-color: turquoise;">
+        
+        
+        </footer>
+        
+    
+    </body>
+</html

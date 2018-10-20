@@ -1,0 +1,260 @@
+.navbar{
+    background-color:turquoise;
+    padding: 7px;
+    border-bottom-color: turquoise;
+}
+.navbar-brand{
+    color: white;
+    font-size: 40px;
+    
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+.navbar-inverse .navbar-brand:hover{
+    color:#FF0070;
+}
+.caret{
+    color: white;
+}
+.caret:hover{
+    color: azure;
+}
+.dropdown-menu>li>a {
+    color: white;
+    background-color: turquoise;
+}
+.dropdown-menu>li>a:hover{
+    color:white;
+    background-color: #FF0070;
+}
+.dropdown-menu {
+    color: white;
+    background-color: turquoise;
+}
+.divider{
+    color:white;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+    color: #FF0070;
+}
+.section_2{
+    width: 100%;
+}
+.About_title{
+    color:turquoise;
+    margin-top: 10%;
+}
+.About_Head_title{
+    color:darkturquoise;
+    margin-top: 9%;
+    margin-bottom: -10%;
+    text-align: center;
+}
+.about{
+    margin-top: 190px;
+    width: 650px;
+    height: 350px;
+    overflow: hidden;
+    color: darkgray;
+    font-size: 22px;
+   
+}
+.about h2{
+    margin-bottom: 40px;
+   
+}
+.about-mop h2{
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.about-mop{
+   
+}
+.about-mop p{
+    color: darkgray;
+    font-size: 20px;
+}
+.sec{
+    margin-top: 70px;
+   /* border:solid;*/
+    width: 1150px;
+    height: 400px;
+}
+.section_3{
+    margin-top: 300px;
+    width: 100%;
+    height: 1100px;
+    background-color: mediumturquoise;
+}
+.section_4{
+    width: 100%;
+    height: 650px;
+    background-color: white;
+}
+.section_5{
+    width: 100%;
+    height: 2900px;
+     background-color: mediumturquoise;
+}
+.section_6{
+    width: 100%;
+    height: 1500px;
+    background-color: white;
+}
+.btn{
+    color:lightseagreen;
+}
+ 
+.btn:hover{
+    color: white;
+    background-color:lightseagreen;
+}
+.arm{
+    background-color:white;
+    width: 295px;
+    height: 1.5px;
+    border-radius: 5px;
+    margin-top:180px;
+    margin-left:220px;
+}
+.contn{
+    border: solid;
+    border-radius: 10px;
+    border-color: turquoise;
+    height: 200px;
+    width: 550px;
+    background-color: white;
+}
+.smallers{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 20px;
+    color: gray;
+}
+.loader{
+    width: 100px;
+    height: 150px;
+}
+.parallax {
+    /* The image used */
+
+    /* Set a specific height */
+    min-height: 600px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+    visibility: hidden;
+    width: 160px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}
+/******************
+ **** FOOTER ****
+*******************/
+
+#footer {
+    
+}
+#footerInfo {
+    padding: 70px 0;
+    background-color: turquoise;
+    color: #FF0070;
+    font-size: 20px;
+}
+.footerWidgeTitle {
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 25px;
+    text-align: left;
+}
+#copyrightsWrap {
+    padding: 25px 0;
+    text-align: center;
+    background-color:turquoise;
+    color: #63646f;
+}
+#copyrights {
+    font-family: "Montserrat", sans-serif;
+}
+#footer .logo {
+    margin-top: 35px;
+}
+#footer .logo {
+    width: 225px;
+}
+.footerMediaBtns a {
+    color:deeppink; 
+    font-size: 20px;
+    display: inline-block;
+    padding: 5px;
+
+}
+.footerMediaBtns a:hover {
+    color: white;
+    transition: all .4s ease;
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    -o-transition: all .4s ease;
+}
